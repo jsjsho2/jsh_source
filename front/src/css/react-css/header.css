@@ -1,0 +1,7 @@
+.container-fluid {
+    min-height: 55px;
+}
+
+.container-fluid .title {
+    margin: 6px 0;
+}

@@ -1,0 +1,23 @@
+body {
+    background: #474e56 !important;
+}
+
+.btn-group > .dropdown > button {
+    font-size: 11px;
+    color: #6c6c6c;
+    background-color: #d9d9d9;
+    text-shadow: none;
+}
+
+.dropdown-toggle:after {
+    display: inline-block;
+    margin-left: 1em;
+    vertical-align: 0em;
+    content: "";
+    border-top: .5em solid;
+    border-right: .3em solid transparent;
+    border-bottom: 0;
+    border-left: .3em solid transparent;
+    width: 0em;
+    height: 0px;
+}
